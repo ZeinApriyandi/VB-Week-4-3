@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\bin\Debug\Color.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\bin\Debug\Color.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\bin\Debug\Color.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\bin\Debug\Color.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\obj\Debug\Color.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\obj\Debug\Color.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\obj\Debug\Color.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\obj\Debug\Color.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\obj\Debug\Color.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi3_week4\Color\Color\obj\Debug\Color.pdb
